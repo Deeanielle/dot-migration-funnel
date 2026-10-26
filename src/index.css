@@ -59,3 +59,94 @@ body,
   color: #666;
   font-size: 0.95rem;
 }
+
+/* Version switcher */
+.version-nav {
+  position: fixed;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  display: flex;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  backdrop-filter: blur(6px);
+}
+
+.version-nav a {
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  color: #444;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.version-nav a[aria-current="page"] {
+  background: #00205b;
+  color: #fff;
+}
+
+/* Floating clusters */
+.cluster-stage {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  padding: 64px 16px 24px;
+}
+
+.cluster-svg {
+  width: 100%;
+  max-width: 1040px;
+  height: auto;
+  overflow: visible;
+}
+
+.cluster-svg.is-vertical {
+  width: auto;
+  height: 100%;
+  max-height: calc(100vh - 120px);
+  max-width: 100%;
+}
+
+.cluster-disc {
+  fill-opacity: 0.07;
+  stroke-opacity: 0;
+  stroke-width: 1.5;
+  stroke-dasharray: 3 4;
+}
+
+.cluster-disc[data-empty="true"] {
+  fill-opacity: 0;
+  stroke-opacity: 0.45;
+}
+
+.cluster-label {
+  font-size: 22px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.cluster-steps {
+  display: flex;
+  gap: 8px;
+}
+
+.cluster-steps span {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #d6d6d6;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.cluster-steps span.is-active {
+  background: #00205b;
+  transform: scale(1.3);
+}
