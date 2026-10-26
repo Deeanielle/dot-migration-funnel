@@ -1,10 +1,15 @@
 import { useEffect, useState } from "react";
 import { DotFunnelScrollAnimation } from "./components/DotFunnelScrollAnimation";
 import { FloatingClusterFunnel } from "./components/FloatingClusterFunnel";
+import { BubbleClusterFunnel } from "./components/BubbleClusterFunnel";
 
-type View = "grid" | "floating";
+type View = "grid" | "floating" | "bubbles";
 const viewFromHash = (): View =>
-  window.location.hash === "#floating" ? "floating" : "grid";
+  window.location.hash === "#floating"
+    ? "floating"
+    : window.location.hash === "#bubbles"
+      ? "bubbles"
+      : "grid";
 
 export default function App() {
   const [view, setView] = useState<View>(viewFromHash);
@@ -28,7 +33,13 @@ export default function App() {
           href="#floating"
           aria-current={view === "floating" ? "page" : undefined}
         >
-          Floating clusters
+          Columns
+        </a>
+        <a
+          href="#bubbles"
+          aria-current={view === "bubbles" ? "page" : undefined}
+        >
+          Bubbles
         </a>
       </nav>
 
@@ -57,11 +68,11 @@ export default function App() {
             </p>
           </footer>
         </div>
-      ) : (
+      ) : view === "floating" ? (
         <div key="floating">
           <header className="intro">
             <p className="eyebrow">Prototype · Version 2</p>
-            <h1>Floating Clusters</h1>
+            <h1>Floating Columns</h1>
             <p className="lede">
               Each colored cluster is a stage. Scroll to step through time:
               dots float off one cluster and ease into the next. Forward moves
@@ -70,6 +81,29 @@ export default function App() {
           </header>
 
           <FloatingClusterFunnel stepVh={70} />
+
+          <footer className="outro">
+            <p>
+              Same data as the grid version: 10 steps, about 100 dots.
+              <br />
+              Progress is not always forward.
+            </p>
+          </footer>
+        </div>
+      ) : (
+        <div key="bubbles">
+          <header className="intro">
+            <p className="eyebrow">Prototype · Version 3</p>
+            <h1>Bubbles</h1>
+            <p className="lede">
+              Each colored bubble is a stage, with its count underneath. Scroll
+              to step through time: dots float off one bubble and ease into the
+              next. Forward moves arc over the top, and dots that slip back a
+              step arc underneath.
+            </p>
+          </header>
+
+          <BubbleClusterFunnel stepVh={70} />
 
           <footer className="outro">
             <p>
