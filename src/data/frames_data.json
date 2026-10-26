@@ -1,0 +1,2014 @@
+{
+  "frame1": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "1": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 6,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 6,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 6,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 1,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 1,
+      "colors": [
+        "#3260A7"
+      ]
+    }
+  },
+  "frame2": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    }
+  },
+  "frame3": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "1": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 6,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 2,
+      "colors": [
+        "#3260A7"
+      ]
+    }
+  },
+  "frame4": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    }
+  },
+  "frame5": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 3,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    }
+  },
+  "frame6": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    }
+  },
+  "frame7": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "40": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    }
+  },
+  "frame8": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "40": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "41": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "42": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "43": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "44": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    }
+  },
+  "frame9": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "40": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "41": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "42": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "43": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "44": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "45": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    }
+  },
+  "frame10": {
+    "0": {
+      "height": 1,
+      "colors": [
+        "#F78D29"
+      ]
+    },
+    "10": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "11": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "12": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "13": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "14": {
+      "height": 2,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "15": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "16": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "17": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "18": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "19": {
+      "height": 1,
+      "colors": [
+        "#00205B"
+      ]
+    },
+    "20": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "21": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "22": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "23": {
+      "height": 5,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "24": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "25": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "26": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "27": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "28": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "29": {
+      "height": 4,
+      "colors": [
+        "#5BC2E7"
+      ]
+    },
+    "30": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "31": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "32": {
+      "height": 4,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "33": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "34": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "35": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "36": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "37": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "38": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "39": {
+      "height": 3,
+      "colors": [
+        "#3260A7"
+      ]
+    },
+    "40": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "41": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "42": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "43": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "44": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "45": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "46": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    },
+    "47": {
+      "height": 1,
+      "colors": [
+        "#84BD00"
+      ]
+    }
+  }
+}
